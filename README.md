@@ -1,7 +1,7 @@
 # Fraud-Detection
 Detect behavioural anomalies to identify fraudulent users
 
-## Performs one class classification
+## Performs One-Class Classification
 Final Version.ipynb contains all the updated code
 1. Encode labels for categorical data -> Assigns numbers to categories
 2. Extracts more features from dates
